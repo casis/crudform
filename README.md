@@ -6,3 +6,4 @@ CrudForm primarily uses the following
 * S3
 * Lambda
 * DynamoDB
+* CloudFormation
